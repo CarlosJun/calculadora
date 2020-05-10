@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message msg {
+  repeated string operators = 1;
+}
